@@ -115,7 +115,7 @@ Client                  API Gateway              PostgreSQL DB
 
 ### Prerequisites
 
-- Java 17+
+- Java 21
 - Maven 3.8+
 - PostgreSQL 14+
 
